@@ -1,6 +1,6 @@
 # Scrum Quiz
 
-This is a simple **Scrum Multiple Choice Test** web application for single and multiple answer questions. The quiz includes a timer, a randomized set of questions, and tracks the user's score based on correct answers.
+This is a simple **PSM1 Multiple Choice Test** web application for single and multiple answer questions. The quiz includes a timer, a randomized set of questions, and tracks the user's score based on correct answers.
 
 ## Features
 
